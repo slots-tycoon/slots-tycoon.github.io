@@ -1473,10 +1473,8 @@ toggleAchievements.addEventListener('click', function() {
   playSound(click);
   if (achievementsBox.style.right === "50%") {
     achievementsBox.style.right = "-50vw";
-    achievementsBox.scrollIntoView({ behavior: "smooth" });
   } else {
     achievementsBox.style.right = "50%";
-    achievementsBox.scrollIntoView({ behavior: "smooth" });
   }
 });
 
