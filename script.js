@@ -558,7 +558,7 @@ const animals = ["🐲", "😺", "🐶", "🐔", "🐮", "🐷", "🐰", "🐵"]
 let foodBought = ["💩"];
 const buttons = document.querySelectorAll('.items.food > div > button');
 const colectibles = document.querySelector('.collect-food');
-let foodsOwned = 0;
+let foodsOwned = 1;
 
 buttons.forEach((button, index) => {
   button.addEventListener('click', function() {
@@ -1070,7 +1070,7 @@ const nftColectibles = document.querySelector('.collect-nft');
 
 let nftsBought = ["😁"];
 let nftShopBonus = 0;
-let nftsOwned = 0;
+let nftsOwned = 1;
 
 nftButtons.forEach((button, index) => {
   button.addEventListener('click', function() {
@@ -1082,7 +1082,7 @@ nftButtons.forEach((button, index) => {
       nftShopBonus += nftShopPrice[index] * 0.001
       updateCryptoPerClick();
       nftsOwned += 1;
-      if (nftsOwned == 17) {unlockAchievement(19);}
+      if (nftsOwned == 18) {unlockAchievement(19);}
       nftsBought.push(nftShopItems[index]);
       jpMotercycleGangCheck();
       secondPlaceCheck();
