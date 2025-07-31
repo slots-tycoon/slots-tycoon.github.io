@@ -11,8 +11,7 @@ Well, I got just the thing for you! <br/>
 Introducing, Slots Tycoon! Slots tycoon combines the fun gameplay of a tycoon game and the thrill of gambling! <br/>
 This is the next best hit on the market! <br/>
 <br/>
-Check it out at https://arpan-shah-102.github.io/slots-tycoon/ <br/>
-Or at https://slots-tycoon.netlify.app <br/>
+Check it out at https://slots-tycoon.github.io <br/>
 
 
 #### The Final Update V3
@@ -27,5 +26,5 @@ Or at https://slots-tycoon.netlify.app <br/>
 9. Added loans if your low on money
 10. Added Scam Coin
 11. Balanced Slot Machine Payout
-12. Added a cheats menu
+12. Added a cheats menu <br/>
 Activate it by typing in "cheatsOn()" in the console.
