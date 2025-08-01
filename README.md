@@ -27,4 +27,6 @@ Check it out at https://slots-tycoon.github.io <br/>
 10. Added Scam Coin
 11. Balanced Slot Machine Payout
 12. Added a cheats menu <br/>
-Activate it by typing in "cheatsOn()" in the console.
+Activate it by typing in "cheatsOn()" in the console. <br/>
+<br/>
+Not attempting to add ads 👀
